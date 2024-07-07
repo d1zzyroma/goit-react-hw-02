@@ -1,0 +1,22 @@
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: aquamarine;
+}
+
+.btnWrapper{
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.btnShow{
+    display: block;
+    width: 100px;
+    height: 40px;
+    background-color: aquamarine;
+}
+
+.btnHide{
+    display: none;
+}
